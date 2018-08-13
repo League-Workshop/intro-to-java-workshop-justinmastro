@@ -1,3 +1,4 @@
+size (800,800);
 
 background(#0207E8);
 fill(#01EAD9);
